@@ -1,4 +1,4 @@
-\documentclass[10pt]{article}
+Vaya kaka \documentclass[10pt]{article}
 \usepackage{amsfonts}
 \usepackage{amsmath}
 \usepackage{amsthm}
