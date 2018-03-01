@@ -31,7 +31,7 @@
 \begin{document}
 
 
-\title{CAdcccds in Group Theory}
+\title{CAdcccds in asTheory}
 \author{A. Lastname}
 \date{}
 \maketitle
