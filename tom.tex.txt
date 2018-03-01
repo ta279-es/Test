@@ -31,7 +31,7 @@
 \begin{document}
 
 
-\title{sf4 in Group Theory}
+\title{sf4 ñ,in Group Theory}
 \author{A. Lastname}
 \date{}
 \maketitle
